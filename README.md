@@ -1,4 +1,7 @@
-## Hi there 👋
+Aoling Zhu
+Graduate Student
+Email: 2025al@mail.tust.edu.cn
+Research interests: Artificial Intelligence, Machine Learning
 
 <!--
 **404No0tFound/404No0tFound** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
