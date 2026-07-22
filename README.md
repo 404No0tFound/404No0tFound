@@ -1,4 +1,4 @@
-# Aoling Zhu
+Aoling Zhu
 
 Graduate Student
 
